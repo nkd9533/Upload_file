@@ -1,0 +1,1 @@
+set classpath=C:\JAVA_HOME\wls12213\wlserver\server\lib\weblogic.jar;C:\oraclexe\app\oracle\product\10.2.0\server\jdbc\lib\ojdbc14.jar;D:\GYAN\adv\Servlet\Upload_Files\WEB-INF\lib\cos.jar;.;
